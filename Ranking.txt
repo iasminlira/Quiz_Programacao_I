@@ -1,0 +1,1 @@
+{"Vitor": 40, "Ilo": 32, "Rosa": 20, "Neto": 25, "Duda": 19, "Pedro": 6, "Thais": 13, "Gabi": 6, "Lucas": 6, "Rafael": 2}
